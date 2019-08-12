@@ -11,5 +11,6 @@ Output Image:
 
 References:
 1) https://learnopengl.com/Getting-started/Textures
-2) http://ogldev.atspace.co.uk
-3) http://www.opengl-tutorial.org
+2) https://open.gl/textures
+3) http://ogldev.atspace.co.uk
+4) http://www.opengl-tutorial.org
